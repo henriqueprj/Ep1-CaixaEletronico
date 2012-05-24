@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DojoTJ-Episodio1Tests")]
+[assembly: AssemblyTitle("CaixaEletronico.CoreTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DojoTJ-Episodio1Tests")]
+[assembly: AssemblyProduct("CaixaEletronico.CoreTests")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("28c1778b-356c-40f9-91ba-c9b3bedb27a6")]
+[assembly: Guid("b489cbe8-86f3-4ca1-bf86-b4fde7c60bf3")]
 
 // Version information for an assembly consists of the following four values:
 //
